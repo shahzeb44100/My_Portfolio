@@ -1,4 +1,5 @@
 import bannerImg from "./images/bannerimage.png";
+import profileImg from "./images/profileimage.png";
 import mzadqatar from "./images/projects/mzadqatar.png";
 import breezeline from "./images/projects/breezeline.png";
 import authur from "./images/projects/authur.png";
@@ -18,6 +19,7 @@ import shahzeb_resume from "./resume/shahzeb_resume.pdf";
 
 export {
   bannerImg,
+  profileImg,
   mzadqatar,
   breezeline,
   authur,
